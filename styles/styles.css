@@ -1,0 +1,50 @@
+html {
+    background-color: #98afc7;
+}
+
+body {
+  width: 600px;
+  margin: auto auto;
+  background-color: #b6b6b4;
+  padding: 20px 20px 20px 20px;
+  border: 2px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  font-size: 60px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  text-align: center;
+  font-family: 'Montserrat', sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+p {
+  font-size: 20px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Montserrat', sans-serif; /* this should be the rest of the output you got from Google fonts */
+  text-align: center;
+}
+
+li {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
+}
+
+button {
+  margin: auto;
+}
+
+#sentence {
+  text-align: center;
+}
+
+#list {
+  width: 200px;
+  margin: auto;
+
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
